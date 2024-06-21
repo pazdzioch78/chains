@@ -1,3 +1,10 @@
+## Getting Started
+
+Follow these steps to set up the project locally:
+1. Clone the repository.
+2. Install dependencies.
+3. Run the application.
+
 # EVM-based Chains
 
 The source data is in _data/chains. Each chain has its own file with the filename being the [CAIP-2](https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-2.md) representation as name and `.json` as extension.
